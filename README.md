@@ -1,4 +1,4 @@
-⚠️ **WIP (Work In Progress)**: This project is under development and not yet complete.
+⚠️ **WIP**: This project is under development and not yet complete.
 
 YURI Framework
 ====================
@@ -25,7 +25,7 @@ Note:
 This code is provided "as is", without any warranty expressed or implied. It is intended for research and educational purposes only. Use it at your own risk.
 
 --------------------------------------------------------
-⚠️ **WIP（进行中，Work In Progress）**：此项目仍在开发中，尚未完成。
+⚠️ **WIP**：此项目仍在开发中，尚未完成。
 
 YURI 框架
 ====================
