@@ -16,6 +16,13 @@ Usage:
 - Interact with the model using the chat() method, which sends user inputs and retrieves the model's response.
 - Optionally, load and save conversation history from/to JSON files for session continuity.
 
+Quick Start:
+
+```shell
+python -m pip install -r requirements.txt
+python YURI.py
+```
+
 Author: sukia the Fox
 Contributors: Feng
 License: MIT License
@@ -42,6 +49,13 @@ YURI（Yielding Uncensored Reasoning Injection）框架用于对大型语言模�
 - 通过指定目标模型、提示词文件、提示词类型以及历史记录选项来初始化 YURI 实例。
 - 使用 chat() 方法与模型交互，发送用户输入并获取模型回复。
 - 可选地加载或保存对话历史，以便持续对话。
+
+快速开始:
+
+```shell
+python -m pip install -r requirements.txt
+python YURI.py
+```
 
 作者：sukia the Fox
 贡献者： Feng
