@@ -1,4 +1,5 @@
 ⚠️ **WIP (Work In Progress)**: This project is under development and not yet complete.
+
 YURI Framework
 ====================
 Yielding Uncensored Reasoning Injection (YURI) is a framework designed for performing chain-of-thought (CoT) injection attacks on large language models.
@@ -25,6 +26,7 @@ This code is provided "as is", without any warranty expressed or implied. It is 
 
 --------------------------------------------------------
 ⚠️ **WIP（进行中，Work In Progress）**：此项目仍在开发中，尚未完成。
+
 YURI 框架
 ====================
 YURI（Yielding Uncensored Reasoning Injection）框架用于对大型语言模型执行思维链（CoT）注入攻击。
